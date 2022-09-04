@@ -1,2 +1,1 @@
-# Readability_CS50
-HARVARD COURSE
+#HARVARD.EDU
